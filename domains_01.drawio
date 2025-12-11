@@ -4,20 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pdLp3U0rRaMjZNYfu0Er-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Domains Database" vertex="1">
-          <mxGeometry height="90" width="80" x="50" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="pdLp3U0rRaMjZNYfu0Er-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;&lt;b&gt;Data sources&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Domains&lt;/div&gt;&lt;div&gt;YTJ&lt;/div&gt;&lt;div&gt;Vero&lt;/div&gt;&lt;div&gt;BF&lt;/div&gt;" vertex="1">
+        <mxCell id="pdLp3U0rRaMjZNYfu0Er-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;&lt;b&gt;Data sources&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Domains&lt;/div&gt;&lt;div&gt;YTJ&lt;/div&gt;&lt;div&gt;stat.fi/yty&lt;/div&gt;&lt;div&gt;Vero&lt;/div&gt;&lt;div&gt;BF&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="110" x="50" y="100" as="geometry" />
-        </mxCell>
-        <mxCell id="pdLp3U0rRaMjZNYfu0Er-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="220" y="240" as="geometry" />
         </mxCell>
         <mxCell id="pdLp3U0rRaMjZNYfu0Er-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="220" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="pdLp3U0rRaMjZNYfu0Er-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Finnish Domains&lt;/div&gt;&lt;div&gt;ver 0.8&lt;/div&gt;&lt;div&gt;11.12.2025&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="10" as="geometry" />
+        <mxCell id="pdLp3U0rRaMjZNYfu0Er-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Finnish Domains - ver 0.8&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;11.12.2025&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="300" y="10" as="geometry" />
         </mxCell>
         <mxCell id="hw82IJIeLIzoK9FmDYDW-1" edge="1" parent="1" source="pdLp3U0rRaMjZNYfu0Er-2" style="endArrow=classic;html=1;rounded=0;entryX=0.6;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="pdLp3U0rRaMjZNYfu0Er-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -26,10 +20,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hw82IJIeLIzoK9FmDYDW-2" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="290" width="320" x="30" y="80" as="geometry" />
+          <mxGeometry height="400" width="320" x="30" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pdLp3U0rRaMjZNYfu0Er-3" parent="hw82IJIeLIzoK9FmDYDW-2" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;&lt;b&gt;AI analysis for&lt;/b&gt;&lt;/div&gt;&lt;div&gt;-activity&lt;/div&gt;&lt;div&gt;-topic&lt;/div&gt;&lt;div&gt;-webshop&lt;/div&gt;&lt;div&gt;-domain park&lt;/div&gt;&lt;div&gt;-etc.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="175" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pdLp3U0rRaMjZNYfu0Er-1" parent="hw82IJIeLIzoK9FmDYDW-2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;Domains Database&lt;/div&gt;&lt;div&gt;-domains&lt;/div&gt;&lt;div&gt;-companies&lt;/div&gt;&lt;div&gt;-YTY&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="80" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-4" edge="1" parent="hw82IJIeLIzoK9FmDYDW-2" source="pdLp3U0rRaMjZNYfu0Er-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="pdLp3U0rRaMjZNYfu0Er-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="240" as="sourcePoint" />
+            <mxPoint x="180" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hw82IJIeLIzoK9FmDYDW-3" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="280" width="360" x="420" y="80" as="geometry" />
+          <mxGeometry height="400" width="360" x="410" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-5" parent="hw82IJIeLIzoK9FmDYDW-3" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Domains table&lt;/b&gt;&lt;/div&gt;&lt;div&gt;-holder, registrant, grantdate, country&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-6" parent="hw82IJIeLIzoK9FmDYDW-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Website: https://anter.fi/wp/domains&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="70" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-7" parent="hw82IJIeLIzoK9FmDYDW-3" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Domains table&lt;/b&gt;&lt;/div&gt;&lt;div&gt;-expired&lt;/div&gt;&lt;div&gt;-not valid&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-8" parent="hw82IJIeLIzoK9FmDYDW-3" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Domains stats&lt;/b&gt;&lt;/div&gt;&lt;div&gt;-timeline, distriburion by domestic/foreign,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;country, registrants&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-15" edge="1" parent="hw82IJIeLIzoK9FmDYDW-3" source="hw82IJIeLIzoK9FmDYDW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=37.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hw82IJIeLIzoK9FmDYDW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-17" edge="1" parent="hw82IJIeLIzoK9FmDYDW-3" source="hw82IJIeLIzoK9FmDYDW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hw82IJIeLIzoK9FmDYDW-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="180" />
+              <mxPoint x="175" y="170" />
+              <mxPoint x="210" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-19" edge="1" parent="hw82IJIeLIzoK9FmDYDW-3" source="hw82IJIeLIzoK9FmDYDW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=82.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hw82IJIeLIzoK9FmDYDW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-9" parent="hw82IJIeLIzoK9FmDYDW-3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;Domains Database&lt;/div&gt;&lt;div&gt;-domains&lt;/div&gt;&lt;div&gt;-companies&lt;/div&gt;&lt;div&gt;-YTY&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="80" x="60" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-13" edge="1" parent="1" source="pdLp3U0rRaMjZNYfu0Er-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=37.5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=37.5;entryPerimeter=0;" target="hw82IJIeLIzoK9FmDYDW-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
