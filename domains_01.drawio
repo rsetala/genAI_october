@@ -52,16 +52,10 @@
         <mxCell id="hw82IJIeLIzoK9FmDYDW-15" edge="1" parent="hw82IJIeLIzoK9FmDYDW-3" source="hw82IJIeLIzoK9FmDYDW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=37.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hw82IJIeLIzoK9FmDYDW-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hw82IJIeLIzoK9FmDYDW-17" edge="1" parent="hw82IJIeLIzoK9FmDYDW-3" source="hw82IJIeLIzoK9FmDYDW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hw82IJIeLIzoK9FmDYDW-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="175" y="180" />
-              <mxPoint x="175" y="170" />
-              <mxPoint x="210" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hw82IJIeLIzoK9FmDYDW-19" edge="1" parent="hw82IJIeLIzoK9FmDYDW-3" source="hw82IJIeLIzoK9FmDYDW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=82.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hw82IJIeLIzoK9FmDYDW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-21" edge="1" parent="hw82IJIeLIzoK9FmDYDW-3" source="hw82IJIeLIzoK9FmDYDW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="hw82IJIeLIzoK9FmDYDW-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hw82IJIeLIzoK9FmDYDW-9" parent="hw82IJIeLIzoK9FmDYDW-3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;Domains Database&lt;/div&gt;&lt;div&gt;-domains&lt;/div&gt;&lt;div&gt;-companies&lt;/div&gt;&lt;div&gt;-YTY&lt;/div&gt;" vertex="1">
