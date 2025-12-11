@@ -4,20 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pdLp3U0rRaMjZNYfu0Er-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
-          <mxGeometry height="80" width="60" x="80" y="90" as="geometry" />
+        <mxCell id="pdLp3U0rRaMjZNYfu0Er-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Domains Database" vertex="1">
+          <mxGeometry height="90" width="80" x="50" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="pdLp3U0rRaMjZNYfu0Er-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="220" y="90" as="geometry" />
+        <mxCell id="pdLp3U0rRaMjZNYfu0Er-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;&lt;b&gt;Data sources&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Domains&lt;/div&gt;&lt;div&gt;YTJ&lt;/div&gt;&lt;div&gt;Vero&lt;/div&gt;&lt;div&gt;BF&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="50" y="100" as="geometry" />
         </mxCell>
         <mxCell id="pdLp3U0rRaMjZNYfu0Er-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="220" y="240" as="geometry" />
         </mxCell>
         <mxCell id="pdLp3U0rRaMjZNYfu0Er-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="80" y="250" as="geometry" />
+          <mxGeometry height="80" width="80" x="220" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="pdLp3U0rRaMjZNYfu0Er-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="pdLp3U0rRaMjZNYfu0Er-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Finnish Domains&lt;/div&gt;&lt;div&gt;ver 0.8&lt;/div&gt;&lt;div&gt;11.12.2025&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-1" edge="1" parent="1" source="pdLp3U0rRaMjZNYfu0Er-2" style="endArrow=classic;html=1;rounded=0;entryX=0.6;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="pdLp3U0rRaMjZNYfu0Er-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="130" as="sourcePoint" />
+            <mxPoint x="150" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-2" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="290" width="320" x="30" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hw82IJIeLIzoK9FmDYDW-3" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="280" width="360" x="420" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
